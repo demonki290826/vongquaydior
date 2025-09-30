@@ -1,0 +1,5 @@
+{
+  "name": "Dior Lucky Wheel",
+  "description": "An elegant lucky wheel application for Dior, allowing users to spin for a chance to win prizes. Includes an admin dashboard to manage prizes and view winners. All data is stored locally in the browser.",
+  "requestFramePermissions": []
+}
